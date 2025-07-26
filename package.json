@@ -11,6 +11,6 @@
   "license": "ISC",
   "packageManager": "pnpm@10.13.1",
   "devDependencies": {
-    "@google/gemini-cli": "^0.1.13"
+    "@google/gemini-cli": "^0.1.14"
   }
 }
