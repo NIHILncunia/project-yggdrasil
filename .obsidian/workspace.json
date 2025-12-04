@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "c576443ddb197b7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "019c36922904cff1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c257d36570e914a6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac1d44b5024af6f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9ca992fa61ab13f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75ead0c3ad8e58a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "182ca86668bff033",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "54198185ea6d3578",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "16ab6c374ef4fe9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "749db893a67c0017",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da24ce922172c311",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "750ec90b882062e3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "1594ac82a80ce52a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "6c64dbb0d9088290",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "59ccbaac51a4df90",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:변경사항 게재": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "c257d36570e914a6",
+  "lastOpenFiles": [
+    "_참고자료/개요.md",
+    "4.단체/위그드라실/클랜.md",
+    "상세설정",
+    "1.세계 규칙/위그드라실/신목 위그드라실.md",
+    "_참고자료/설정_요약.md",
+    "README.md",
+    "1.세계 규칙/위그드라실/헌터.md",
+    "1.세계 규칙/위그드라실/클래스/오퍼레이터.md",
+    "7.스토리/프로젝트 위그드라실.md",
+    "5.사물/위그드라실/바이오 디바이스.md",
+    "4.단체/위그드라실/길드-철의 방패.md",
+    "1.세계 규칙/위그드라실/클래스/에스퍼.md",
+    "1.세계 규칙/위그드라실/클래스/어쎄신.md",
+    "1.세계 규칙/위그드라실/클래스/알케미스트.md",
+    "1.세계 규칙/위그드라실/클래스/슬레이어.md",
+    "1.세계 규칙/위그드라실/클래스/소서리스.md",
+    "1.세계 규칙/위그드라실/클래스/성직자.md",
+    "1.세계 규칙/위그드라실/클래스/서머너.md",
+    "4.단체/위그드라실/길드.md",
+    "1.세계 규칙/위그드라실/클래스/비스트 테이머.md",
+    "1.세계 규칙/위그드라실/클래스/메카닉.md",
+    "1.세계 규칙/위그드라실/클래스/리퍼.md",
+    "1.세계 규칙/위그드라실/클래스/드루이드.md",
+    "1.세계 규칙/위그드라실/클래스",
+    "4.단체/위그드라실/길드-붉은 십자.md",
+    "4.단체/위그드라실/길드-정신의 탑.md",
+    "4.단체/위그드라실/길드-심연의 서클.md",
+    "4.단체/위그드라실/길드-새벽의 검.md",
+    "6.사건_역사/위그드라실",
+    "5.사물/위그드라실",
+    "4.단체/위그드라실",
+    "3.지역/위그드라실",
+    "2.인물/위그드라실",
+    "1.세계 규칙/위그드라실",
+    "docs/상세설정/클래스",
+    "docs/상세설정/지역"
+  ]
+}
